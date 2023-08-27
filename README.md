@@ -3,7 +3,7 @@ The official PyTorch implementation of diffusion model as an image encoder, comb
 
 ## Framework
 <p align="center">
-  <img src="referSAM.png" width="1000">
+  <img src="./referSAM.png" width="1000">
 </p>
 
 ## Preparation
@@ -16,7 +16,7 @@ The official PyTorch implementation of diffusion model as an image encoder, comb
 3. Pretrained weights
    - refer to [ODISE](https://github.com/NVlabs/ODISE)
 
-## Train and Test (RIS)
+## Train and Test
 
 Refer to [LAVT](https://github.com/yz93/LAVT-RIS).
 
