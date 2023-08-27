@@ -2,8 +2,10 @@
 The official PyTorch implementation of diffusion model as an image encoder, combined with Mask2Former's pixel decoder and a self-developed multi-scale decoder.
 
 ## Framework
+
+Decoder (architecture refer to [Segformer](https://github.com/NVlabs/SegFormer/tree/master) and [SAM](https://github.com/facebookresearch/segment-anything)
 <p align="center">
-  <img src="./referSAM.png" width="1000">
+  <img src="./framework.png" width="1000">
 </p>
 
 ## Preparation
