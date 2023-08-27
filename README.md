@@ -5,7 +5,7 @@ The official PyTorch implementation of diffusion model as an image encoder, comb
 
 Decoder (architecture refer to [Segformer](https://github.com/NVlabs/SegFormer/tree/master) and [SAM](https://github.com/facebookresearch/segment-anything)
 <p align="center">
-  <img src="./framework.png" width="1000">
+  <img src="./framework.jpg" width="1000">
 </p>
 
 ## Preparation
