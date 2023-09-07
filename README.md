@@ -1,4 +1,4 @@
-# Diffusion Encoder + Pixeldecoder + Mutiscaledecoder
+# Diffusion Encoder + Pixel Decoder + Mutiscale Decoder
 The official PyTorch implementation of diffusion model as an image encoder, combined with Mask2Former's pixel decoder and a self-developed multi-scale decoder.
 
 ## Framework
