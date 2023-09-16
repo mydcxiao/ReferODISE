@@ -12,7 +12,7 @@ Decoder (architecture refer to [Segformer](https://github.com/NVlabs/SegFormer/t
 
 1. Environment
    - [PyTorch](www.pytorch.org)
-   - Stable Diffusion dependencies(https://github.com/CompVis/stable-diffusion)
+   - [Stable Diffusion dependencies](https://github.com/CompVis/stable-diffusion)
 2. Datasets
    - The detailed instruction is in [LAVT](https://github.com/yz93/LAVT-RIS).
 3. Pretrained weights
